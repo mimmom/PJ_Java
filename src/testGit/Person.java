@@ -5,7 +5,7 @@ public class Person {
 	String nome;
 	String cognome;
 	int eta;
-
+	
 	public String getNome() { 
 		return nome;
 	}
