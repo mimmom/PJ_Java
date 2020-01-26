@@ -36,13 +36,6 @@ public class Person {
 		this.eta = eta;
 	}
 
-	public String getIndirizzo() {
-		return indirizzo;
-	}
-
-	public void setIndirizzo(String indirizzo) {
-		this.indirizzo = indirizzo;
-	}
 
 	public String getIndirizzo2() {
 		return indirizzo2;
