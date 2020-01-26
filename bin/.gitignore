@@ -1,8 +1,4 @@
-/chapter11_exceptionsandassertions/
-/chapter12_localization/
-/chapter13_threads/
-/chapter14_concurrency/
-/com/
-/pretest/
-/chapter07_stringprocessing/
-/chapter08_javaIofundamentals/
+
+
+*.class
+
