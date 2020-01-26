@@ -7,6 +7,12 @@ public class Person {
 	int eta;
 	String indirizzo; 
 	
+	
+	String s = " in area di staging"; 
+	
+	String indirizzo2 ; 
+	
+	
 	public String getNome() { 
 		return nome;
 	}
@@ -37,6 +43,14 @@ public class Person {
 
 	public void setIndirizzo(String indirizzo) {
 		this.indirizzo = indirizzo;
+	}
+
+	public String getIndirizzo2() {
+		return indirizzo2;
+	}
+
+	public void setIndirizzo2(String indirizzo2) {
+		this.indirizzo2 = indirizzo2;
 	}
 
 }
