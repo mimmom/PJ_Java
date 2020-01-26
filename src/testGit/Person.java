@@ -5,7 +5,8 @@ public class Person {
 	String nome;
 	String cognome;
 	int eta;
-
+	
+	String s = " in area di staging"; 
 	public String getNome() { 
 		return nome;
 	}
