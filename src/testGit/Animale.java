@@ -7,6 +7,8 @@ public class Animale {
 	Integer eta;
 	
 	
+	String nuovoCampo; 
+	
 	public String getNome() {
 		return nome;
 	}
@@ -24,6 +26,12 @@ public class Animale {
 	}
 	public void setEta(Integer eta) {
 		this.eta = eta;
+	}
+	public String getNuovoCampo() {
+		return nuovoCampo;
+	}
+	public void setNuovoCampo(String nuovoCampo) {
+		this.nuovoCampo = nuovoCampo;
 	} 
 	
 }
