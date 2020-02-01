@@ -7,6 +7,7 @@ public class Person {
 	int eta;
 	
 
+	
 	String s = " in area di staging"; 
 	
 	String indirizzo2 ; 
